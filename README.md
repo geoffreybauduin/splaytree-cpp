@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/lght/splaytree-cpp.svg)](https://travis-ci.org/lght/splaytree-cpp)
+[![Build Status](https://travis-ci.org/geoffreybauduin/splaytree-cpp.svg)](https://travis-ci.org/geoffreybauduin/splaytree-cpp)
 
 - Create a "build" folder
 - Go into "build" folder
